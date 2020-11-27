@@ -63,6 +63,13 @@
         -   Typescript
         -   GitHub Actions
         -   Slack
+-   バグレポート用 Slack bot 作成  
+    -   規模: 1 人
+    -   役割: 使用作成・設計・開発・テスト
+    -   技術  
+        -   Go
+        -   Slack
+        -   AWS (Lambda / API Gateway)
 -   障害対応
 -   技術ブログ執筆
 
