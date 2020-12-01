@@ -42,9 +42,16 @@
     - Nginx
     - AWS (EC2 / S3 / CloudWatch)
     - Locust
+- 請求書発行バッチの作成
+  - 規模: 2 人
+  - 役割: 設計・開発・テスト
+  - 技術
+    - Python
+    - Apache Airflow
+    - Postgresql
 - 開発承認フローの新規開発
   - 規模: 2 人
-  - 役割: 使用策定・設計・開発・テスト
+  - 役割: 仕様策定・設計・開発・テスト
   - 技術
     - Typescript
     - GitHub Actions
