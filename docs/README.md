@@ -46,10 +46,11 @@
     -   技術  
         -   Typescript (NestJS + DDD)
         -   Python (Django)
+        -   Go (AWS Lambda)
         -   Postgresql
         -   RabbitMQ
         -   Stripe API
-        -   AWS (ECS / CodeDeploy / CloudWatch / Batch)
+        -   AWS (ECS / CodeDeploy / CloudWatch / Batch / Lambda)
 -   CM 放映によるアクセス増加を起因とした負荷対策  
     -   規模: 6 人
     -   役割: 設計・インフラリソースの変更・開発ディレクション・テスト
