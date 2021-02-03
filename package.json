@@ -4,7 +4,7 @@
   "description": "my personal history",
   "main": "index.js",
   "scripts": {
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./configs/config.pdf.js"
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./config/config.pdf.js"
   },
   "repository": {
     "type": "git",
@@ -13,6 +13,6 @@
   "author": "asatake",
   "license": "MIT",
   "dependencies": {
-    "md-to-pdf": "^3.1.2"
+    "md-to-pdf": "^3.2.1"
   }
 }
