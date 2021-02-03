@@ -1,6 +1,6 @@
 
 module.exports = {
-  stylesheet: "./configs/style.css",
+  stylesheet: "./config/style.css",
   body_class: "markdown-body",
   marked_options: {
     headerIds: false,

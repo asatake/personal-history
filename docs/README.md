@@ -3,6 +3,8 @@
 
 ## 基本情報
 
+| key  | value      |
+|---- |---------- |
 | 氏名 | 馬目 哲大  |
 | 生年月日 | 1994/02/11 |
 
@@ -12,7 +14,7 @@
 
 ### 言語
 
--   Typescript / javascript
+-   TypeScript / JavaScript
 -   Python
 -   PHP
 -   Go
@@ -27,7 +29,7 @@
 
 ### その他
 
--   Postgresql
+-   PostgreSQL
 -   MySQL
 -   Docker
 -   Ansible
@@ -44,10 +46,10 @@
     -   規模: 4 人
     -   役割: 技術選定・設計・開発・テスト・インフラ設定
     -   技術  
-        -   Typescript (NestJS + DDD)
+        -   TypeScript (NestJS + DDD)
         -   Python (Django)
         -   Go (AWS Lambda)
-        -   Postgresql
+        -   PostgreSQL
         -   RabbitMQ
         -   Stripe API
         -   AWS (ECS / CodeDeploy / CloudWatch / Batch / Lambda)
@@ -64,12 +66,12 @@
     -   技術  
         -   Python
         -   Apache Airflow
-        -   Postgresql
+        -   PostgreSQL
 -   開発承認フローの新規開発  
     -   規模: 2 人
     -   役割: 仕様策定・設計・開発・テスト
     -   技術  
-        -   Typescript
+        -   TypeScript
         -   GitHub Actions
         -   Slack
 -   バグレポート用 Slack bot 作成  
