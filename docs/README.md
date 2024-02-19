@@ -14,33 +14,120 @@
 
 ### 言語
 
+-   Go
 -   TypeScript / JavaScript
 -   Python
 -   PHP
--   Go
 
 
 ### フレームワーク
 
--   NestJS
--   Angular
--   Django
+-   Go  
+    -   echo (Go)
+-   Typescript  
+    -   Next.js
+    -   ReactNative
+    -   NestJS
+    -   Angular
+-   Python  
+    -   Django
 
 
 ### その他
 
--   PostgreSQL
 -   MySQL
+-   PostgreSQL
 -   Docker
+-   Terraform
 -   Ansible
--   AWS (ECS, Lambda, CodeDeploy, RDS, MQ)
+-   AWS (ECS, Lambda, CodeDeploy, RDS, MQ, S3, Route53 など)
 -   GitHub Actions
 
 
 ## 職務履歴
 
 
-### みんなのマーケット株式会社 (2019/03〜)
+### 株式会社 POKER ROOM (2021/05〜)
+
+-   サービス (ROOTS アプリ/Admin) 立ち上げ  
+    -   規模: 4 人
+    -   役割: 設計・開発・クラウドインフラ構築
+    -   技術  
+        -   Go (echo)
+        -   MySQL
+        -   Stripe API
+        -   Firebase
+        -   Terraform
+        -   AWS  
+            -   VPC
+            -   ECS
+            -   RDS
+            -   ELB
+            -   CloudFront
+        -   Typescript
+        -   Datadog (RUM/APM)
+        -   Vercel
+-   API のデプロイ環境改善  
+    -   規模: 1 人
+    -   役割: 設計・開発
+    -   技術  
+        -   Terraform
+        -   Go (AWS SDK)
+        -   AWS  
+            -   CodeDeploy
+            -   CloudMap
+            -   ECS Fargate
+        -   GitHub Actions
+-   ROOTS シーズンアップデートに係る非同期基盤の構築  
+    -   規模: 1 人
+    -   役割: 技術選定・システム設計・開発・クラウドインフラ構築
+    -   技術  
+        -   Go
+        -   MySQL
+        -   RabbitMQ
+        -   AWS  
+            -   Amazon MQ (上記の RabbitMQ)
+-   API に冪等リクエスト(Idempotency-Request)の仕組み導入  
+    -   規模: 1 人
+    -   役割: システム設計・開発・クラウドインフラ構築
+    -   技術  
+        -   Go (echo middleware)
+        -   Redis
+        -   AWS  
+            -   ElastiCache (上記の Redis)
+-   新規事業立ち上げにおける基盤構築  
+    -   規模  
+        -   クラウドインフラ: 1 人
+        -   WebAPI の設計・開発: 2 人
+    -   役割: 技術選定・システム設計・ベースシステムの開発・クラウドインフラ構築
+    -   技術  
+        -   Go (echo)
+        -   MySQL
+        -   Docker
+        -   Stripe API
+        -   Terraform
+        -   RabbitMQ (EC2 上で動作)
+        -   AWS  
+            -   VPC
+            -   ECS
+            -   RDS
+            -   ELB (NLB/ALB)
+            -   CloudFront
+            -   ElastiCache (Redis)
+            -   Cognito  
+                -   OAuth による認証認可用
+            -   EC2
+            -   Amplify Website Hosting  
+                -   Admin や公式 Web サイトのホスティング用
+            -   CodeDeploy
+            -   Lambda  
+                -   Serverless Framework によるデプロイ
+        -   Datadog (RUM/APM)
+        -   GitHub Actions
+-   障害対応
+
+
+### みんなのマーケット株式会社 (2019/03〜2021/04)
 
 -   オンライン決済導入  
     -   規模: 4 人
